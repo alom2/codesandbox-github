@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "644b34980c182b55d48eb669",
+    "guid": "165e4a29-253c-4358-8571-8f19061de26c",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "name": "Barrett Lloyd",
+    "company": "INDEXIA",
+    "email": "barrettlloyd@indexia.com"
+  },
+  {
+    "_id": "644b349809bca947ae2293f5",
+    "guid": "a13bcc68-7d33-4533-aecb-815f9b0f501f",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "name": "Emma Grimes",
+    "company": "ISBOL",
+    "email": "emmagrimes@isbol.com"
+  },
+  {
+    "_id": "644b34986416cc47026b9688",
+    "guid": "6b0fde1c-972c-4572-91d2-cea78430b17e",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "name": "Ora Odom",
+    "company": "FURNAFIX",
+    "email": "oraodom@furnafix.com"
+  }
+]
